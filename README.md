@@ -13,4 +13,4 @@
 ![Static Badge](https://img.shields.io/badge/scipy-badge?style=for-the-badge&logo=scipy&logoColor=white&color=green)
 
 ### Socials
-[![GitHub]([https://image.flaticon.com/icons/png/512/25/25231.png](https://t.me/qdzzzxc))](@qdzzzxc)
+[![GitHub][([https://image.flaticon.com/icons/png/512/25/25231.png](https://t.me/qdzzzxc))](@qdzzzxc)
