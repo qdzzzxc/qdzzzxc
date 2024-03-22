@@ -8,6 +8,8 @@
 ![Static Badge](https://img.shields.io/badge/PyTorch-badge?style=for-the-badge&logo=PyTorch&logoColor=orange&color=black)
 ![Static Badge](https://img.shields.io/badge/docker-badge?style=for-the-badge&logo=docker&logoColor=lightblue&color=grey)
 ![Static Badge](https://img.shields.io/badge/postgres-badge?style=for-the-badge&logo=postgresql&logoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/pandas-badge?style=for-the-badge&logo=pandas&logoColor=white&color=darkblue)
+
 
 
 ### Socials
