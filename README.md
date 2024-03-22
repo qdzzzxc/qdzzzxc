@@ -14,5 +14,6 @@
 
 ### Socials
 📧 nikitstp@gmail.com
+<br>
 <img src="https://github.com/qdzzzxc/qdzzzxc/assets/126320160/8682002c-0a8e-4bbb-9dc3-5f59ef850e84" alt="telegram" width="20" height="20"> [@qdzzzxc](https://t.me/qdzzzxc)
 
