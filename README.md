@@ -1,7 +1,8 @@
-# Header
-
-## About me1
-### About me 2
+### Hi! 👋 My name is Nikita:
+A machine learning student from Moscow, Russia.
+I am interested in NLP and CV tasks. 
+Also, I take part in hackathons, create products using LLMs. 
+My main framework is PyTorch
 
 ### Languages and Tools 
 ![Static Badge](https://img.shields.io/badge/python-badge?style=for-the-badge&logo=python&logoColor=yellow&color=blue)
