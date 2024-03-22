@@ -1,7 +1,7 @@
-#Header
+# Header
 
-##About me1
-###About me 2
+## About me1
+### About me 2
 
 ### Languages and Tools 
 ### Socials
