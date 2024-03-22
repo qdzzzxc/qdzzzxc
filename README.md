@@ -12,7 +12,7 @@
 ![Static Badge](https://img.shields.io/badge/pandas-badge?style=for-the-badge&logo=pandas&logoColor=white&color=darkblue)
 ![Static Badge](https://img.shields.io/badge/scipy-badge?style=for-the-badge&logo=scipy&logoColor=white&color=green)
 
-
-
-
 ### Socials
+<br>
+![Static Badge](https://img.shields.io/badge/telegram-badge?style=for-the-badge&logo=telegram&logoColor=white&color=blue)
+@qdzzzxc
