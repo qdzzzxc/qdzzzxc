@@ -1,7 +1,8 @@
 ### Hi! 👋 My name is Nikita:
 A machine learning student from Moscow, Russia.
 I am interested in NLP and CV tasks. 
-Also, I take part in hackathons, create products using LLMs. 
+<br>
+Recently, I have been taking part in hackathons where I work with projects involving the use of LLMs.
 My main framework is PyTorch
 
 ### Languages and Tools 
