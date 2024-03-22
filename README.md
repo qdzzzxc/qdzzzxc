@@ -13,5 +13,5 @@
 ![Static Badge](https://img.shields.io/badge/scipy-badge?style=for-the-badge&logo=scipy&logoColor=white&color=green)
 
 ### Socials
-![Telegram](![image](https://github.com/qdzzzxc/qdzzzxc/assets/126320160/8682002c-0a8e-4bbb-9dc3-5f59ef850e84)) [@qdzzzxc](https://t.me/qdzzzxc)
+![image](https://github.com/qdzzzxc/qdzzzxc/assets/126320160/8682002c-0a8e-4bbb-9dc3-5f59ef850e84) [@qdzzzxc](https://t.me/qdzzzxc)
 
