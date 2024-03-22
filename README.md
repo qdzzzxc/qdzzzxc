@@ -15,5 +15,5 @@
 ### Socials
 [![GitHub]([https://image.flaticon.com/icons/png/512/25/25231.png](https://t.me/qdzzzxc))](@qdzzzxc)
 
-[@qdzzzxc]([https://github.com](https://t.me/qdzzzxc)https://t.me/qdzzzxc)
+[@qdzzzxc](https://t.me/qdzzzxc)
 
